@@ -1,8 +1,8 @@
 # Health 💓, Medicine 🩺, and Scientific Research 🔬
 
-<br/>
-<img align="right" alt="heartbeats" width="250" src="./heartbeats.gif" />
-<br/>
+<p align="center">
+  <img align="right" alt="heartbeats" width="250" src="./heartbeats.gif" />
+</p>
 
 > [!WARNING]
 > 🚧️ THIS PROFILE IS **UNDER CONSTRUCTION** !!! 🚧️ 
