@@ -1,7 +1,12 @@
 # Health 💓, Medicine 🩺, and Scientific Research 🔬
 
 <p align="center">
-  <img alt="heartbeats" width="250" src="./heartbeats.gif" />
+  <picture>
+    <!-- Desktop: screens of 768px or more -->
+    <source media="(min-width: 768px)" srcset="./heartbeats.gif" width="90%" height="150" >
+    <!-- Mobile (default): screens smaller than 768px -->
+    <img alt="heartbeats" width="220" src="./heartbeats.gif">
+  </picture>
 </p>
 
 > [!WARNING]
