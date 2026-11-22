@@ -1,7 +1,7 @@
 # Health 💓, Medicine 🩺, and Scientific Research 🔬
 
 <p align="center">
-  <img align="right" alt="heartbeats" width="250" src="./heartbeats.gif" />
+  <img alt="heartbeats" width="250" src="./heartbeats.gif" />
 </p>
 
 > [!WARNING]
